@@ -25,7 +25,7 @@ SECRET_KEY = 'dh^ts0+_!arto&++#u&8igykcp*%gn0b4za-eew7b_#qd+$7ev'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
